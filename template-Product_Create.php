@@ -12,8 +12,8 @@
 Template Name: Single Page  Create Product
 Template Post Type: page
 */
- get_header(); 
+get_header(); 
 
-Test_Assignment_create_product_by_front();
+	Test_Assignment_create_product_by_front();
 
 get_footer();
