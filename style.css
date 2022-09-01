@@ -2,3 +2,6 @@
 Theme Name: Child theme storefront
 Template: storefront
 */
+.productPrice{
+	margin: 10px 0px;
+}
